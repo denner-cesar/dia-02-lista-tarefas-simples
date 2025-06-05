@@ -11,6 +11,8 @@ Criei uma aplicação simples que permite adicionar, marcar como concluídas e r
  Adicionar novas tarefas
  Marcar tarefas como concluídas (linha cortada)
  Remover tarefas individualmente
+ Salvar todas as tarefas no `localStorage` automaticamente
+ Carregar tarefas salvas ao abrir a página
 
  Aprendizados
 
